@@ -1,0 +1,4 @@
+FROM java:17
+ADD Application.java .
+RUN javac Application.java
+CMD ["java", "Application"]
