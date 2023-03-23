@@ -1,0 +1,8 @@
+rootProject.name = 'MailClient'
+
+include 'mailclient-client-api'
+include 'mailclient-miscellaneous:data'
+include 'mailclient-miscellaneous:store'
+include 'mailclient-miscellaneous'
+include 'mailclient-worker'
+

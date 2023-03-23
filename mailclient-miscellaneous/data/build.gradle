@@ -1,0 +1,6 @@
+/**
+ * Spring
+ */
+dependencies {
+    compileOnly group: 'org.springframework.boot', name: 'spring-boot-starter-json'
+}
